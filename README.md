@@ -5,7 +5,7 @@ The **Secure Web-Based Voting System** is a secure, dynamic web application desi
 
 * **Live Demo Hosted at:** [tnlection2026.asp.net](http://tnlection2026.asp.net/Default) *(Replace with actual link if active)*
 * **Development Mentorship:** Hykin Tech Software Academy, Porur, Chennai[cite: 3]
-* **Institution:** Department of Computer Science, Sindhi College[cite: 3]
+* **Institution:** Department of Computer Science, Sindhi College[cite: 3].
 
 
 ## 🛠️ Tech Stack & Requirements
