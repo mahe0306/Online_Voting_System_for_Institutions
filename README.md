@@ -7,15 +7,6 @@ The **Secure Web-Based Voting System** is a secure, dynamic web application desi
 * **Development Mentorship:** Hykin Tech Software Academy, Porur, Chennai[cite: 3]
 * **Institution:** Department of Computer Science, Sindhi College[cite: 3]
 
----
-
-## 👥 Team Members (Batch 2023 - 2026)
-* **Magesh A** (Reg. No. 222301582)[cite: 3]
-* **Madesh B** (Reg. No. 222301581)[cite: 3]
-* **Mahender S P** (Reg. No. 222301583)[cite: 3]
-* **Project Guide:** Dr. M. ALEXANDER, M.Sc. (IT), M.Phil. (CS), Ph.D.[cite: 3]
-
----
 
 ## 🛠️ Tech Stack & Requirements
 
